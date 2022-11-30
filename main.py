@@ -62,9 +62,9 @@ def get_urls(url, page_number, alt_name):
 
 
 # first class
-# URL = "http://www.iplant.cn/info/Nelumbo%20nucifera?t=p"
-# urls = get_urls(URL, 200, "莲")
-# save_image('Lotus ', urls)
+URL = "http://www.iplant.cn/info/Nelumbo%20nucifera?t=p"
+urls = get_urls(URL, 200, "莲")
+save_image('Lotus ', urls)
 
 # # second class
 # URL = "http://www.iplant.cn/info/郁金香?t=p"
@@ -77,9 +77,9 @@ def get_urls(url, page_number, alt_name):
 # save_image('Sunflower', urls)
 #
 # Fourth
-URL = 'http://www.iplant.cn/info/Cymbidium%20goeringii?t=p'
-urls = get_urls(URL, 200, "春兰")
-save_image('Orchid', urls)
+# URL = 'http://www.iplant.cn/info/Cymbidium%20goeringii?t=p'
+# urls = get_urls(URL, 200, "春兰")
+# save_image('Orchid', urls)
 #
 # # Five
 # URL = 'http://www.iplant.cn/info/Prunus%20mume?t=p'
