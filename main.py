@@ -1,7 +1,7 @@
 import time
-
 import requests
 import re
+import os
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.common import NoSuchElementException, StaleElementReferenceException
@@ -18,10 +18,18 @@ def save_image(name, url_list):
         url = url_list[i]
         response = requests.get(url, headers=headers)
         print(response.status_code)  # 查看请求状态，返回200说明正常
-        path = './images/'+name+"/"+name+'.'+str(i)+'.jpg'  # 文件储存地址
-        with open(path, 'wb') as f:  # 把图片数据写入本地，wb表示二进制储存
-            for chunk in response.iter_content(chunk_size=128):
-                f.write(chunk)
+
+        file_path = './images/'+name+"/"
+        file_name = name+'.'+str(i)+'.jpg'
+        if not os.path.exists(file_path):
+            os.makedirs(file_path)
+        else:
+            path = file_path + file_name  # 文件储存地址
+            with open(path, 'wb') as f:  # 把图片数据写入本地，wb表示二进制储存
+                for chunk in response.iter_content(chunk_size=128):
+                    f.write(chunk)
+
+
 
 
 def get_urls(url, page_number, alt_name):
@@ -53,15 +61,34 @@ def get_urls(url, page_number, alt_name):
     return url_list
 
 
-# URL = 'http://www.iplant.cn/info/Nelumbo?t=p'
-# urls = get_urls(URL, 20, "莲属")
-# save_image('Nelumbo', urls)
+# first class
+URL = "http://www.iplant.cn/info/Nelumbo%20nucifera?t=p"
+urls = get_urls(URL, 200, "莲")
+save_image('Lotus ', urls)
 
+# # second class
+# URL = "http://www.iplant.cn/info/郁金香?t=p"
+# urls = get_urls(URL, 200, "郁金香")
+# save_image('Tulips ', urls)
+#
+# # third class
+# URL = 'http://www.iplant.cn/info/向日葵?t=p'
+# urls = get_urls(URL, 200, "向日葵")
+# save_image('Sunflower', urls)
+#
+# # Fourth
+# URL = 'http://www.iplant.cn/info/Cymbidium%20goeringii?t=p'
+# urls = get_urls(URL, 200, "春兰")
+# save_image('Orchid', urls)
+#
+# # Five
 # URL = 'http://www.iplant.cn/info/Prunus%20mume?t=p'
-# urls = get_urls(URL, 100, "梅")
+# urls = get_urls(URL, 200, "梅")
 # save_image('PrunusMume', urls)
+#
+# # Six
+# URL = 'http://www.iplant.cn/info/Rosa?t=p'
+# urls = get_urls(URL, 2, "蔷薇属")
+# save_image('Rosa', urls)
 
-URL = 'http://www.iplant.cn/info/Rosa?t=p'
-urls = get_urls(URL, 2, "蔷薇属")
-save_image('Rosa', urls)
 
