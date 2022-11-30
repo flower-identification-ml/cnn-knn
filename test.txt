@@ -1,0 +1,260 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+	莲属 Nelumbo|iPlant 植物智——植物物种信息系统
+</title>
+    <script src="/Scripts/jquery-1.11.1.min.js"></script>
+     <link rel="shortcut icon" href="/images/favicon.ico">
+    <script src="/css/highslide.css" type="text/javascript"></script>
+    <script type="text/javascript" src="/highslide/highslide.js"></script>
+    <script type="text/javascript" src="//api.map.baidu.com/api?v=2.0&amp;ak=15FZIvFdDsTwGl3NshuoFHTH"></script><script type="text/javascript" src="http://api.map.baidu.com/getscript?v=2.0&amp;ak=15FZIvFdDsTwGl3NshuoFHTH&amp;services=&amp;t=20221108111515"></script>
+    <script type="text/javascript" src="//api.map.baidu.com/library/Heatmap/2.0/src/Heatmap_min.js"></script>
+    <script src="/Scripts/frpskeyjs.js?202206130854"></script>
+    <script src="/Scripts/replacetxt.js?32322"></script>
+    <script>
+        hs.graphicsDir = '/highslide/graphics/';
+        var spno = "256083";
+         var spcname = "莲属";
+        var latin2 = "Nelumbo";
+        var isadmin = "0";
+        var colnamecode = "";
+         var t = "p";
+
+        var fockeyno = "";
+        var a;
+    </script>
+    <script type="text/javascript" src="/Scripts/plantinfo2.js?202211181639"></script>
+    <script type="text/javascript" src="/Scripts/jquery.masonry.js"></script>
+    <link href="/css/fenye.css" rel="stylesheet"><link href="/css/fenye3.css" rel="stylesheet">
+    <script type="text/javascript" src="/Scripts/jquery.flexslider-min.js"></script>
+
+<script type="text/javascript" async="" charset="utf-8" src="https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1669565634718"></script></head>
+<body>
+
+<script src="/Scripts/bootstrap.js"></script>
+<link href="/css/bootstrap.css" rel="stylesheet">
+
+<script>
+    document.write("<link href=\"/css/style.css?" + Math.random() + "\" rel=\"stylesheet\" />");
+ </script><link href="/css/style.css?0.256919791362471" rel="stylesheet">
+<script src="/images/i_top.js?67555"></script><link href="//www.iplant.cn/css/topjs.css?5322" rel="stylesheet">
+<div class="i_topdiv" align="center">
+<div class="i_topdiv2">
+<div class="i_topdiv3">
+<div class="i_toptxtfl"><a href="//www.plantplus.cn" class="alink"><img class="i_topimg" src="//www.iplant.cn/images/pplogo23.png"></a></div><div class="i_toptxtfr"><a href="//www.plantplus.cn/cn" class="alink">植物+科学数据中心</a><span class="m10">|</span><a href="//www.iplant.cn" class="alink">iPlant 植物智</a><span class="m10">|</span><a href="//ppbc.iplant.cn" class="alink">中国植物图像库</a><span class="m10">|</span><a href="//www.flph.org" class="alink">泛喜马拉雅植物志</a></div>
+</div>
+</div>
+</div>
+
+<div class="maindiv">
+    <div class="top">
+        <div class="fl">
+            <a href="/"><img src="/images/iplant_web_logo4.png?234" style="height:63px"></a>
+        </div>
+        <div class="fl">
+            <a href="http://www.ib.cas.cn/2019gb/sqmhwwcys/" target="_blank"><img src="/images/img_20221116203200.jpg" style="height:70px"></a>
+        </div>
+        <div class="fr">
+            <nav class="navbar navbar-default" role="navigation">
+	            <div class="container-fluid">
+                    <ul class="nav navbar-nav">
+                        <li class=""><a href="/" target="_blank">主 页<span class="sr-only">(current)</span></a></li><li class="active"><a href="#">百 科<span class="sr-only">(current)</span></a></li><li class="dropdown ">       <a href="//ppbc.iplant.cn" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">图 库 <span class="caret"></span></a><ul class="dropdown-menu"> <li><a href="//ppbc.iplant.cn/" target="_blank">中国植物图像库</a></li> <li><a href="#">❤️我的收藏</a></li> <li><a href="//ppbc.iplant.cn/upload" target="_blank">＋ 上传图片</a></li> <li><a href="/ibgpano/index.htm" target="_blank">展览温室VR全景</a></li></ul>            </li><li class="dropdown ">       <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">植物志 <span class="caret"></span></a><ul class="dropdown-menu"> <li><a href="/frps" target="_blank">中国植物志（FRPS）</a></li> <li><a href="/foc" target="_blank">Flora of China（FOC）</a></li> <li><a href="http://www.flph.org/" target="_blank">Flora of Pan-Himalayas （FLPH）</a></li></ul>            </li><li class="dropdown ">       <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">标  本 <span class="caret"></span></a><ul class="dropdown-menu"> <li><a href="http://pe.ibcas.ac.cn" target="_blank">国家植物标本馆（PE）</a></li> <li><a href="http://www.cvh.ac.cn" target="_blank">中国数字植物标本馆 CVH</a></li> <li><a href="/qp/" target="_blank">秦仁昌模式标本照片集</a></li></ul>            </li><li class="dropdown ">       <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">专 题 <span class="caret"></span></a><ul class="dropdown-menu"> <li><a href="/rep" target="_blank">中国濒危保护植物</a></li> <li><a href="/frps/jingji" target="_blank">中国资源植物</a></li> <li><a href="/ias" target="_blank">中国外来入侵物种</a></li> <li><a href="#">－中国植物红皮书*</a></li> <li><a href="#">- 国家重点保护物种*</a></li> <li><a href="/pnc" target="_blank">植物名称校对</a></li> <li><a href="/stu" target="_blank">在线识图</a></li></ul>            </li><li class="dropdown ">       <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">APP <span class="caret"></span></a><ul class="dropdown-menu"> <li><a href="#">eFLora 手机植物志</a></li> <li><a href="/hbl" target="_blank">AiPlant 花伴侣 APP</a></li> <li><a href="/app1/" target="_blank">iSpecimen 标本伴侣</a></li> <li><a href="/cbl/" target="_blank">iGrass 晓草 APP</a></li> <li><a href="https://www.plantplus.cn/cn/tools/4" target="_blank">植物智（花伴侣专业版）*</a></li> <li><a href="#">- iHerbarium 标本馆伴侣*</a></li></ul>            </li><li class=""><a href="/newsinfo/56" target="_blank">关 于<span class="sr-only">(current)</span></a></li>
+                    </ul>
+	            </div>
+            </nav>
+        </div>
+        <div class="cb"></div>
+    </div>
+</div>
+
+<script src="/Scripts/jquery.autocomplete2017.js"></script>
+  <link href="/css/autocompletecss.css" rel="stylesheet">
+<script src="/Scripts/autoajax.js?202004011555"></script>
+<script>
+    var t = "p";
+</script>
+
+<script src="/Scripts/searchjs.js?202011101023"></script>
+<div class="liimg2" style="background-image:url(/baseimg/20190624230045742.jpg);">
+    <div style="width:1200px;margin:0 auto;position:relative">
+    <div class="searchc3">
+    <input id="key" type="text" autocomplete="off" onfocus="javascript:onclear()" value="按物种搜索">
+    <input class="localFile" name="localFile" type="file" accept="image/jpeg,image/jpg">
+    <div class="upfilediv" id="localFileButton" title="识图检索" alt="识图检索"></div>
+    <div id="loadding" style="display:none" class="loadding">识图中……</div>
+    <img src="/images/fdj.png" onclick="javascript:btnsearch()" class="searchbtn"> </div>
+    </div>
+</div>
+        <div class="maindiv">
+            <div id="spsyslink" class="infosyslink"><a href="/">植物智</a> &gt;&gt; <a href="/info/Angiospermae">被子植物门 Angiospermae</a> &gt;&gt; <a href="/info/Nelumbonaceae">莲科 Nelumbonaceae</a></div>
+            <div class="infotitlediv">
+
+                <div class="info1 fl" style="width:500px;"><span class="infocname">莲属</span><span class="cnamepinyin">(lián shǔ)</span></div>
+                <div class="fr"><span><a href="//ppbc.iplant.cn/list21?keyword=Nelumbo" class="plantinfotxt" target="_blank">PPBC</a><a href="http://www.cvh.ac.cn/spms/list.php?&amp;taxonName=Nelumbo" class="plantinfotxt" target="_blank">CVH</a><a href="http://www.sp2000.org.cn/pageservices/species/scientificName/Nelumbo/zh" class="plantinfotxt" target="_blank">Col</a><a href="http://theplantlist.org/tpl1.1/search?q=Nelumbo" target="_blank" class="plantinfotxt">TPL</a><a href="https://www.ipni.org/?q=Nelumbo" target="_blank" class="plantinfotxt">IPNI</a><a href="http://duocet.ibiodiversity.net/index.php?title=Nelumbo" class="plantinfotxt" target="_blank">Duocet</a><a href="http://www.cfh.ac.cn/Spdb/spsearch.aspx?aname=Nelumbo" class="plantinfotxt" target="_blank">CFH</a><a href="https://image.cubg.cn/search?sort=default&amp;text=Nelumbo&amp;taxonId=" class="plantinfotxt" target="_blank">CUBG</a><a href="https://www.gbif.org/search?q=Nelumbo" target="_blank" class="plantinfotxt">GBIF</a><a href="https://www.idigbio.org/portal/search?rq={" scientificname":"nelumbo"}"="" target="_blank" class="plantinfotxt">iDigBio</a><a href="http://www.efloras.org/browse.aspx?name_str=Nelumbo" class="plantinfotxt" target="_blank">eFloras</a><a href="http://eol.org/search?q=Nelumbo" target="_blank" class="plantinfotxt">EOL</a><a href="https://www.biodiversitylibrary.org/search?searchTerm=Nelumbo&amp;stype=F" target="_blank" class="plantinfotxt">BHL</a><a href="http://www.worldfloraonline.org/search?query=Nelumbo" target="_blank" class="plantinfotxt">WFO</a><a href="https://powo.science.kew.org/results?q=Nelumbo" target="_blank" class="plantinfotxt">POWO</a><a href="https://cn.bing.com/search?q=Nelumbo&amp;qs=n&amp;form=QBLHCN&amp;sp=-1&amp;pq=matteuccia+struthiopteris&amp;sc=8-25&amp;sk=&amp;cvid=144F92AC3D9C40A2B96DCA769A9B8251" target="_blank" class="plantinfotxt">Bing</a><a href="https://www.baidu.com/s?wd=Nelumbo" class="plantinfotxt" target="_blank">Baidu</a></span></div>
+                <div class="cb"></div>
+                <div id="sptitlel" class="infolatin"><span class="font20"><b>Nelumbo</b></span> <span class="font20"><b></b></span> Adans.</div>
+
+
+
+            </div>
+        </div>
+        <div class="infobanner">
+            <div class="maindiv">
+                <div class="fl" style="width:270px">
+                   &nbsp;
+                </div>
+                <ul>
+                   <a href="/info/Nelumbo"><li class="offcss">植物百科</li></a><a href="/info/Nelumbo?t=n"><li class="offcss">名称分类</li></a><a href="/info/Nelumbo?t=z"><li class="offcss">植物志</li></a><a href="/info/Nelumbo?t=p"><li class="oncss">植物图片</li></a><a href="/info/Nelumbo?t=b"><li class="offcss">植物标本</li></a><a href="/info/Nelumbo?t=f"><li class="offcss">物种分布</li></a>
+                </ul>
+                <div class="cb"></div>
+            </div>
+        </div>
+    <div style="height:300px;display:none"></div>
+        <div class="maindiv">
+            <div id="plant_mingpian" style="display: none;">
+                <div class="infoleft">
+                    <div class="list">植物百科</div>
+
+                    <div id="wbk" class="list">微百科</div>
+                     <div id="wbkbar" class="barcodecss">
+                        <div class="barcodeimg"><img src="/ashx/getspinfobarcode.ashx?spid=256083"></div>
+                        <div class="barcodetxt"><a href="http://www.iplant.cn/bk/A0E981ABBFE4A634" target="_blank">扫一扫</a></div>
+                    </div>
+                </div>
+                 <div class="inforight2">
+
+                     <div id="imgdiv" class="infodiv" style="display: none;">
+                         <div id="imglist" style="width:458px;margin:0 auto"></div>
+                     </div>
+                </div>
+                <div class="infoleft">
+                    <div id="divclass">
+                        <div class="divtitle">分类树</div>
+                        <div class="divcontent">
+                            <select id="classfenlei" style="margin:0;"></select>
+                            <div id="rightclasssys" style="line-height:14px;"></div>
+                        </div>
+                    </div>
+                    <div class="cb"></div>
+                    <div id="classparlist">
+
+                    </div>
+
+                </div>
+                <div class="cb"></div>
+            </div>
+            <div id="plant_biaoben" style="display: none;">
+                <div class="infoleft">
+                    <div class="list">植物标本</div>
+                </div>
+                <div class="inforight">
+                    <div class="infodiv">
+                        <div id="cvhlist">
+
+                        </div>
+                        <div id="cvhlistpage" class="scott" style="text-align:center"></div>
+                    </div>
+                </div>
+                <div class="cb"></div>
+            </div>
+            <div id="plant_names" style="display: none;">
+                <div class="infoleft">
+                     <div class="list">名称分类</div>
+                    <div id="list_names" onclick="javascript:tolink('n');" class="listsub">Sp2000 CN(2022)</div>
+                </div>
+                <div class="inforight">
+                     <div id="plant_names_right" class="infodiv">
+                         </div>
+                </div>
+            </div>
+            <div id="plant_ppbc" style="display: block;">
+                <div class="infodiv clearfix">
+                    <div id="ppbclist" class="item_list infinite_scroll masonry" style="position: relative; height: 932px;"><div class="item masonry_brick masonry-brick" style="position: absolute; top: 0px; left: 0px;"><div class="item_t"><div class="img" pid="6085286" cno="256083"><a href="http://ppbc.iplant.cn/tu/6085286" target="_blank"><img alt="莲属" src="http://img2.iplant.cn/gotoimg/236/1E21354954695E99.jpg"></a></div><div class="title"><a href="http://ppbc.iplant.cn/tu/6085286" target="_blank"><div class="nameall">莲属 Nelumbo</div></a><span><a href="http://ppbc.iplant.cn/3030/user" target="_blank">何志堃</a> <font face="Arial">@</font> 吉林省 通化市 海龙湖公园</span></div></div></div><div class="item masonry_brick masonry-brick" style="position: absolute; top: 0px; left: 251px;"><div class="item_t"><div class="img" pid="5725039" cno="256083"><a href="http://ppbc.iplant.cn/tu/5725039" target="_blank"><img alt="莲属" src="http://img2.iplant.cn/gotoimg/236/A0A23F67259B33A7.jpg"></a></div><div class="title"><a href="http://ppbc.iplant.cn/tu/5725039" target="_blank"><div class="nameall">莲属 Nelumbo</div></a><span><a href="http://ppbc.iplant.cn/23607/user" target="_blank">聂廷秋</a> <font face="Arial">@</font> 上海市 上海市 辰山</span></div></div></div><div class="item masonry_brick masonry-brick" style="position: absolute; top: 0px; left: 502px;"><div class="item_t"><div class="img" pid="5725038" cno="256083"><a href="http://ppbc.iplant.cn/tu/5725038" target="_blank"><img alt="莲属" src="http://img2.iplant.cn/gotoimg/236/3B8910EDF5746388.jpg"></a></div><div class="title"><a href="http://ppbc.iplant.cn/tu/5725038" target="_blank"><div class="nameall">莲属 Nelumbo</div></a><span><a href="http://ppbc.iplant.cn/23607/user" target="_blank">聂廷秋</a> <font face="Arial">@</font> 上海市 上海市 辰山</span></div></div></div><div class="item masonry_brick masonry-brick" style="position: absolute; top: 0px; left: 753px;"><div class="item_t"><div class="img" pid="5725035" cno="256083"><a href="http://ppbc.iplant.cn/tu/5725035" target="_blank"><img alt="莲属" src="http://img2.iplant.cn/gotoimg/236/84D293EDD4718250.jpg"></a></div><div class="title"><a href="http://ppbc.iplant.cn/tu/5725035" target="_blank"><div class="nameall">莲属 Nelumbo</div></a><span><a href="http://ppbc.iplant.cn/23607/user" target="_blank">聂廷秋</a> <font face="Arial">@</font> 上海市 上海市 辰山</span></div></div></div><div class="item masonry_brick masonry-brick" style="position: absolute; top: 0px; left: 1004px;"><div class="item_t"><div class="img" pid="5725034" cno="256083"><a href="http://ppbc.iplant.cn/tu/5725034" target="_blank"><img alt="莲属" src="http://img2.iplant.cn/gotoimg/236/4EBA7CC5D68B0E1F.jpg"></a></div><div class="title"><a href="http://ppbc.iplant.cn/tu/5725034" target="_blank"><div class="nameall">莲属 Nelumbo</div></a><span><a href="http://ppbc.iplant.cn/23607/user" target="_blank">聂廷秋</a> <font face="Arial">@</font> 上海市 上海市 辰山</span></div></div></div><div class="item masonry_brick masonry-brick" style="position: absolute; top: 228px; left: 251px;"><div class="item_t"><div class="img" pid="5725033" cno="256083"><a href="http://ppbc.iplant.cn/tu/5725033" target="_blank"><img alt="莲属" src="http://img2.iplant.cn/gotoimg/236/42DD16A1849F45B2.jpg"></a></div><div class="title"><a href="http://ppbc.iplant.cn/tu/5725033" target="_blank"><div class="nameall">莲属 Nelumbo</div></a><span><a href="http://ppbc.iplant.cn/23607/user" target="_blank">聂廷秋</a> <font face="Arial">@</font> 上海市 上海市 辰山</span></div></div></div><div class="item masonry_brick masonry-brick" style="position: absolute; top: 228px; left: 502px;"><div class="item_t"><div class="img" pid="5725031" cno="256083"><a href="http://ppbc.iplant.cn/tu/5725031" target="_blank"><img alt="莲属" src="http://img2.iplant.cn/gotoimg/236/4AF01C55C8976F90.jpg"></a></div><div class="title"><a href="http://ppbc.iplant.cn/tu/5725031" target="_blank"><div class="nameall">莲属 Nelumbo</div></a><span><a href="http://ppbc.iplant.cn/23607/user" target="_blank">聂廷秋</a> <font face="Arial">@</font> 上海市 上海市 辰山</span></div></div></div><div class="item masonry_brick masonry-brick" style="position: absolute; top: 228px; left: 753px;"><div class="item_t"><div class="img" pid="5442962" cno="256083"><a href="http://ppbc.iplant.cn/tu/5442962" target="_blank"><img alt="莲属" src="http://img2.iplant.cn/gotoimg/236/6B82518F5FF148A5.jpg"></a></div><div class="title"><a href="http://ppbc.iplant.cn/tu/5442962" target="_blank"><div class="nameall">莲属 Nelumbo</div></a><span><a href="http://ppbc.iplant.cn/23607/user" target="_blank">聂廷秋</a> <font face="Arial">@</font> 山东省 菏泽市 东张集</span></div></div></div><div class="item masonry_brick masonry-brick" style="position: absolute; top: 228px; left: 1004px;"><div class="item_t"><div class="img" pid="5442960" cno="256083"><a href="http://ppbc.iplant.cn/tu/5442960" target="_blank"><img alt="莲属" src="http://img2.iplant.cn/gotoimg/236/EAFD25B704ADB377.jpg"></a></div><div class="title"><a href="http://ppbc.iplant.cn/tu/5442960" target="_blank"><div class="nameall">莲属 Nelumbo</div></a><span><a href="http://ppbc.iplant.cn/23607/user" target="_blank">聂廷秋</a> <font face="Arial">@</font> 山东省 菏泽市 东张集</span></div></div></div><div class="item masonry_brick masonry-brick" style="position: absolute; top: 248px; left: 0px;"><div class="item_t"><div class="img" pid="5297158" cno="256083"><a href="http://ppbc.iplant.cn/tu/5297158" target="_blank"><img alt="莲属" src="http://img2.iplant.cn/gotoimg/236/2AA071026CBD7D56.jpg"></a></div><div class="title"><a href="http://ppbc.iplant.cn/tu/5297158" target="_blank"><div class="nameall">莲属 Nelumbo</div></a><span><a href="http://ppbc.iplant.cn/23607/user" target="_blank">聂廷秋</a> <font face="Arial">@</font> 山东省 菏泽市 新世纪</span></div></div></div><div class="item masonry_brick masonry-brick" style="position: absolute; top: 456px; left: 251px;"><div class="item_t"><div class="img" pid="5297157" cno="256083"><a href="http://ppbc.iplant.cn/tu/5297157" target="_blank"><img alt="莲属" src="http://img2.iplant.cn/gotoimg/236/22AE73E66AAE965E.jpg"></a></div><div class="title"><a href="http://ppbc.iplant.cn/tu/5297157" target="_blank"><div class="nameall">莲属 Nelumbo</div></a><span><a href="http://ppbc.iplant.cn/23607/user" target="_blank">聂廷秋</a> <font face="Arial">@</font> 山东省 菏泽市 新世纪</span></div></div></div><div class="item masonry_brick masonry-brick" style="position: absolute; top: 456px; left: 502px;"><div class="item_t"><div class="img" pid="5297155" cno="256083"><a href="http://ppbc.iplant.cn/tu/5297155" target="_blank"><img alt="莲属" src="http://img2.iplant.cn/gotoimg/236/4E12077044DE4821.jpg"></a></div><div class="title"><a href="http://ppbc.iplant.cn/tu/5297155" target="_blank"><div class="nameall">莲属 Nelumbo</div></a><span><a href="http://ppbc.iplant.cn/23607/user" target="_blank">聂廷秋</a> <font face="Arial">@</font> 山东省 菏泽市 新世纪</span></div></div></div><div class="item masonry_brick masonry-brick" style="position: absolute; top: 456px; left: 753px;"><div class="item_t"><div class="img" pid="5297154" cno="256083"><a href="http://ppbc.iplant.cn/tu/5297154" target="_blank"><img alt="莲属" src="http://img2.iplant.cn/gotoimg/236/EFC9BB7BA113F58E.jpg"></a></div><div class="title"><a href="http://ppbc.iplant.cn/tu/5297154" target="_blank"><div class="nameall">莲属 Nelumbo</div></a><span><a href="http://ppbc.iplant.cn/23607/user" target="_blank">聂廷秋</a> <font face="Arial">@</font> 山东省 菏泽市 新世纪</span></div></div></div><div class="item masonry_brick masonry-brick" style="position: absolute; top: 456px; left: 1004px;"><div class="item_t"><div class="img" pid="5297153" cno="256083"><a href="http://ppbc.iplant.cn/tu/5297153" target="_blank"><img alt="莲属" src="http://img2.iplant.cn/gotoimg/236/2D30D6C7C5DD5939.jpg"></a></div><div class="title"><a href="http://ppbc.iplant.cn/tu/5297153" target="_blank"><div class="nameall">莲属 Nelumbo</div></a><span><a href="http://ppbc.iplant.cn/23607/user" target="_blank">聂廷秋</a> <font face="Arial">@</font> 山东省 菏泽市 新世纪</span></div></div></div><div class="item masonry_brick masonry-brick" style="position: absolute; top: 476px; left: 0px;"><div class="item_t"><div class="img" pid="5297152" cno="256083"><a href="http://ppbc.iplant.cn/tu/5297152" target="_blank"><img alt="莲属" src="http://img2.iplant.cn/gotoimg/236/88B660457C2FAB77.jpg"></a></div><div class="title"><a href="http://ppbc.iplant.cn/tu/5297152" target="_blank"><div class="nameall">莲属 Nelumbo</div></a><span><a href="http://ppbc.iplant.cn/23607/user" target="_blank">聂廷秋</a> <font face="Arial">@</font> 山东省 菏泽市 新世纪</span></div></div></div><div class="item masonry_brick masonry-brick" style="position: absolute; top: 684px; left: 251px;"><div class="item_t"><div class="img" pid="5297151" cno="256083"><a href="http://ppbc.iplant.cn/tu/5297151" target="_blank"><img alt="莲属" src="http://img2.iplant.cn/gotoimg/236/E1E0FD9B488BEB0F.jpg"></a></div><div class="title"><a href="http://ppbc.iplant.cn/tu/5297151" target="_blank"><div class="nameall">莲属 Nelumbo</div></a><span><a href="http://ppbc.iplant.cn/23607/user" target="_blank">聂廷秋</a> <font face="Arial">@</font> 山东省 菏泽市 新世纪</span></div></div></div><div class="item masonry_brick masonry-brick" style="position: absolute; top: 684px; left: 502px;"><div class="item_t"><div class="img" pid="5297149" cno="256083"><a href="http://ppbc.iplant.cn/tu/5297149" target="_blank"><img alt="莲属" src="http://img2.iplant.cn/gotoimg/236/102F9F7090C05ADB.jpg"></a></div><div class="title"><a href="http://ppbc.iplant.cn/tu/5297149" target="_blank"><div class="nameall">莲属 Nelumbo</div></a><span><a href="http://ppbc.iplant.cn/23607/user" target="_blank">聂廷秋</a> <font face="Arial">@</font> 山东省 菏泽市 新世纪</span></div></div></div><div class="item masonry_brick masonry-brick" style="position: absolute; top: 684px; left: 753px;"><div class="item_t"><div class="img" pid="5297148" cno="256083"><a href="http://ppbc.iplant.cn/tu/5297148" target="_blank"><img alt="莲属" src="http://img2.iplant.cn/gotoimg/236/B603FB72D36EF364.jpg"></a></div><div class="title"><a href="http://ppbc.iplant.cn/tu/5297148" target="_blank"><div class="nameall">莲属 Nelumbo</div></a><span><a href="http://ppbc.iplant.cn/23607/user" target="_blank">聂廷秋</a> <font face="Arial">@</font> 山东省 菏泽市 新世纪</span></div></div></div><div class="item masonry_brick masonry-brick" style="position: absolute; top: 684px; left: 1004px;"><div class="item_t"><div class="img" pid="5297146" cno="256083"><a href="http://ppbc.iplant.cn/tu/5297146" target="_blank"><img alt="莲属" src="http://img2.iplant.cn/gotoimg/236/1E10C613EBB064D2.jpg"></a></div><div class="title"><a href="http://ppbc.iplant.cn/tu/5297146" target="_blank"><div class="nameall">莲属 Nelumbo</div></a><span><a href="http://ppbc.iplant.cn/23607/user" target="_blank">聂廷秋</a> <font face="Arial">@</font> 山东省 菏泽市 新世纪</span></div></div></div><div class="item masonry_brick masonry-brick" style="position: absolute; top: 704px; left: 0px;"><div class="item_t"><div class="img" pid="5297145" cno="256083"><a href="http://ppbc.iplant.cn/tu/5297145" target="_blank"><img alt="莲属" src="http://img2.iplant.cn/gotoimg/236/1FB7FC0F2582B748.jpg"></a></div><div class="title"><a href="http://ppbc.iplant.cn/tu/5297145" target="_blank"><div class="nameall">莲属 Nelumbo</div></a><span><a href="http://ppbc.iplant.cn/23607/user" target="_blank">聂廷秋</a> <font face="Arial">@</font> 山东省 菏泽市 新世纪</span></div></div></div></div>
+                    <div class="cb"></div>
+                    <div id="ppbclistpage" class="scott" style="text-align:center"><span class="disabled">上一页</span><span class="current">1</span><a href="javascript:void(0)" onclick="javascript:toppbclist(25,2)">2</a><a href="javascript:void(0)" onclick="javascript:toppbclist(25,3)">3</a>......<a href="javascript:void(0)" onclick="javascript:toppbclist(25,24)">24</a><a href="javascript:void(0)" onclick="javascript:toppbclist(25,25)">25</a><a href="javascript:void(0)" onclick="javascript:toppbclist(25,2)">下一页</a></div>
+                </div>
+            </div>
+            <div id="plant_zwz" style="display: none;">
+                <div class="infoleft">
+                    <div class="list">植物志</div>
+                    <div id="list_zwz" onclick="javascript:tolink('z');" class="listsub">中国植物志 (FRPS)</div>
+                    <div id="list_foc" onclick="javascript:tolink('foc');" class="listsub">Flora of China (FOC)</div>
+                    <div id="list_fyb" onclick="javascript:tolink('focn');" class="listsub">FOC 中文翻译版</div>
+                    <div id="list_hpc" onclick="javascript:tolink('hpc');" class="listsub">中国高等植物 (HPC)</div>
+                    <div id="list_isc" onclick="javascript:tolink('isc');" class="listsub">中国高等植物图鉴 (ISC)</div>
+                </div>
+                <div class="inforight">
+                    <div class="infodiv3">
+                        <div id="zwz_frps" class="contentmain">
+                            <div class="fl leftp">
+                                 <div id="frpscontext" class="txtcss">
+
+                                </div>
+                            </div>
+
+                            <div id="frpsrightdiv" class="fl rightp"></div>
+                            <div class="cb"></div>
+                        </div>
+                        <div id="zwz_foc" class="contentmain">
+                           <div class="fl leftp">
+                                 <div id="foccontext" class="txtcss">
+
+                                </div>
+                            </div>
+
+                            <div id="focrightdiv" class="fl rightp"></div>
+                            <div class="cb"></div>
+                        </div>
+                        <div id="zwz_focn" style="margin:40px">
+
+                        </div>
+                         <div id="zwz_hpc" style="margin:40px">
+
+                        </div>
+                         <div id="zwz_isc" style="margin:40px">
+
+                        </div>
+                    </div>
+                </div>
+                <div class="cb"></div>
+            </div>
+            <div id="plant_fenbu" style="display: none;">
+                <div class="infoleft">
+                    <div class="list">物种分布</div>
+                    <div id="list_fenbu" class="listsub" onclick="javascript:tolink('f');">物种县级分布</div>
+                    <div id="list_fenbu1" class="listsub" onclick="javascript:tolink('s');">标本区县分布图</div>
+                    <div id="list_fenbu2" class="listsub" onclick="javascript:tolink('h');">标本分布热力图</div>
+                    <div id="list_fenbu3" class="listsub" onclick="javascript:tolink('pm');">图库照片分布图</div>
+                </div>
+                <div class="inforight">
+                    <div id="fenbuinfo" class="infodiv">
+                        <div id="loading">数据加载中……</div>
+                        <div id="map-canvas" style="width:900px;height:650px;margin:0 auto;margin-top:10px"></div>
+                    </div>
+                </div>
+                <div class="cb"></div>
+
+            </div>
+            <div id="plant_rep" style="display: none;">
+                <div class="infoleft">
+                     <div class="list">物种保护</div>
+                    <div id="list_rep" onclick="javascript:tolink('r');" class="listsub">物种保护</div>
+                </div>
+                <div id="plant_rep_right" class="inforight">
+
+                </div>
+            </div>
+
+        </div>
+
+        <div class="m10"></div>
+
+<div class="maindiv">
+    <div class="foot">
+        <div>
+            <span class="footsite"><a href="/">iPlant.cn 植物智——中国植物＋物种信息系统</a></span> © 2019 版权所有 中国科学院植物研究所 系统与进化植物学国家重点实验室&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://beian.miit.gov.cn">京ICP备16067583号-9</a>&nbsp;&nbsp;&nbsp;&nbsp;<script type="text/javascript" src="https://js.users.51.la/19485497.js"></script><script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+<script>LA.init({id: "1vo40zxVOmFa1j1t",ck: "1vo40zxVOmFa1j1t"})</script>
+        </div>
+    </div>
+       <script src="/Scripts/checkxss.js"></script>
+</div>
+
+<div class="autocomplete-suggestions" style="position: absolute; display: none; max-height: 300px; z-index: 9999;"></div><div style="padding: 0px; border: none; margin:
